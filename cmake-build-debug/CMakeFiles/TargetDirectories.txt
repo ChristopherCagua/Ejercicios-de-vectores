@@ -1,0 +1,3 @@
+C:/Users/PC/CLionProjects/Ejercicios sobre vectores/cmake-build-debug/CMakeFiles/Ejercicios_sobre_vectores.dir
+C:/Users/PC/CLionProjects/Ejercicios sobre vectores/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/PC/CLionProjects/Ejercicios sobre vectores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
